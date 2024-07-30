@@ -10,7 +10,7 @@
 T = int(input()) #테스트케이스 개수
 for test_case in range(1, T+1):
     N = int(input())
-    a = list(map(int, input().split()))
+    arr = list(map(int, input()))
 
 
 # print(f'#{test_case} ')
