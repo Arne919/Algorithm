@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('delta1_input.txt')
 
 T = int(input())
 for test_case in range(1, T+1): # 테스트케이스 반복

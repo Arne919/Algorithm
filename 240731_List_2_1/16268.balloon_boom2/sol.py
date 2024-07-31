@@ -13,7 +13,7 @@ for test_case in range(1, T+1): # 테스트케이스 반복
 
     max_sum = 0                         # 최대 합계를 저장할 변수 초기화
     for i in range(N):
-        for j in range(M):              # NxN 배열
+        for j in range(M):              # NxM 배열
             s = 0                       # 현재 원소와 인접원소의 합을 저장할 변수 초기화
             for k in range(5):          # 5방향 반복
                 ni = i + di[k]
