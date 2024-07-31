@@ -6,9 +6,7 @@ def my_len(lst):
     cnt = 0
     for i in lst:
         cnt += 1
-
     return cnt
-
 
 T = 10
 for tc in range(1, T+1):
