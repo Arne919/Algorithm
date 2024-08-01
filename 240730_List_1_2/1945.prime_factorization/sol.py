@@ -6,7 +6,7 @@ T = int(input())
 
 for test_case in range(1, T+1): # 테스트케이스 반복
     N = int(input())
-    divisor_list = [2,3,5,7,11] # 약수 리스트
+    divisor_list = [2, 3, 5, 7, 11] # 약수 리스트
     count_list = [0] * 5        # 나눈 약수 횟수 리스트
 
     for i in range(5):          # 나눠지는 횟수 계산

@@ -18,7 +18,7 @@ for test_case in range(1, T+1): # 테스트케이스 반복
             for k in range(5):          # 5방향 반복
                 ni = i + di[k]
                 nj = j + dj[k]
-                if 0<=ni<N and 0<=nj<M: # 실존하는 인접원소 ni,nj(범위내에 있는지)
+                if 0 <= ni < N and 0 <= nj < M: # 실존하는 인접원소 ni,nj(범위내에 있는지)
                     s += arr[ni][nj]    # 유효한 이웃 원소의 값 합산
             if s > max_sum:             # 최대값 갱신
                 max_sum = s
