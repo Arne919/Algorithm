@@ -3,7 +3,7 @@ sys.stdin = open('input.txt')
 
 T = int(input())                # 테스트케이스 수
 
-for test_case in range(1, T+1): # 테스트케이스 반복
+for test_case in range(1, T + 1): # 테스트케이스 반복
     N, M = map(int, input().split())                            # 행(N) 열(M)
     arr = [list(map(int, input().split())) for _ in range(N)]   # NxM 배열 입력
 
