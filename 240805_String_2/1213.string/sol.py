@@ -31,7 +31,3 @@ for _ in range(10):
             pattern_idx = 0 # 패턴은 처음 위치부터 다시 비교 시작
             compare_idx = compare_idx - pattern_idx + 1
     print(f'#{tc} {result}')
-
-
-
-    print(f'#{tc}')
