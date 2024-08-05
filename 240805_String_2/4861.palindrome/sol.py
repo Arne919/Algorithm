@@ -8,7 +8,7 @@ for tc in range(1, T + 1):
 
     result = []
     # 배열 입력 받기
-    arr= []
+    arr = []
     for i in range(N):
         arr.append(input())
 
@@ -29,31 +29,3 @@ for tc in range(1, T + 1):
 
     result = ''.join(result)
     print(f'#{tc} {result}')
-
-
-
-    # arr = []
-    #
-    # for i in range(N):
-    #     string = str(input())
-    #     arr.append(string)
-    #     for j in range(N-M+1):
-    #         end = M+j
-    #         if string[j:end] == string[j:end][::-1]:
-    #             result = string[j:end]
-    #
-    # vert_arr = []
-    #
-    # for j in range(N):
-    #     vertstr = str()
-    #     vert = []
-    #     for i in range(N):
-    #         vert.append(arr[i][j])
-    #     vertstr = ''.join(vert)
-    #     vert_arr.append(vertstr)
-    #     for k in range(N-M+2):
-    #         end = M+k
-    #         if vertstr[k:end] == vertstr[k:end][::-1]:
-    #             result = vertstr[k:end]
-
-    # print(f'#{tc} {result}')
