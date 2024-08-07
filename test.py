@@ -1,37 +1,34 @@
-import sys
-sys.stdin = open('input.txt')
+# list = [1,2,3]
+# print(len(list))
+# for i in range(len(list)):
+#     print(i)
 
-T = 10
-N = 100
-for tc in range(1, T + 1):
-    _ = input()
-    arr = [input().split() for _ in range(N)]
-    col = 0
-    row = N-1
-    min_count = 100*100
-    for idx in range(N):
-        count = 0
-        if arr[row][idx] == '1':
-            col=idx
 
-            dr = [0, 0, -1]
-            dc = [-1, 1, 0]
-            while row > 0:
-                for k in range(3):
-                    nr = row +dr[k]
-                    nc = col +dc[k]
-                    if 0<=nr<N and 0<=nc<N:
-                        if arr[nr][nc]=='1':
-                            arr[row][col]='0' # 변경해버리면 다음꺼 출발 할때 초기화해야는데
-                            count += 1
-                            row=nr
-                            col=nc
-                            break
+def solution(progresses, speeds):
+    N = len(progresses)
+    answer = []
+    day = 0
 
-    if min_count > count:
-        min_count = count
-        min_col = col
-    elif min_count == count:
-        if min_col > col:
-            min_col = col
-    print(f'#{tc} {min_col}')
+    while progresses:  # progresses가 비어있지 않을 때까지 반복
+        day += 1  # 날짜 추가
+        completed_count = 0  # 완료된 작업의 수
+
+        # 진행 상황을 업데이트하고 완료된 작업을 체크
+        for i in range(len(progresses)):
+            progresses[i] += speeds[i]
+
+        # 완료된 작업 수 세기
+        while progresses and progresses[0] >= 100:
+            progresses.pop(0)
+            speeds.pop(0)
+            completed_count += 1
+
+        # 완료된 작업이 있으면 결과에 추가
+        if completed_count > 0:
+            answer.append(completed_count)
+
+    return answer
+
+
+# 테스트
+print(solution([93, 30, 55], [1, 30, 5]))  # 예상 출력: [2, 1]
