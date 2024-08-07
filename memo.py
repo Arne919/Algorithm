@@ -9,3 +9,23 @@
 #         progresses.pop(i)               # 작업리스트에서 제외
 #         stack.clear()                   # 스택 초기화
 list =  [1,2,3]
+
+def solution(progresses, speeds):
+    stack = []
+    answer = []
+    day = 0
+    while True:
+        day += 1        # 날짜 추가
+        count = 0
+        for i in range(len(progresses)):
+            progresses[i] += speeds[i]
+        while progresses and progresses[0] + speeds[0] * day >= 100: # 빈 리스트 될 때까지 & 첫번째 작업이 100이상일때
+            progresses.pop(0)
+            speeds.pop(0)
+            count += 1
+        if count > 0:
+            answer.append(count)
+        else:
+            if len(progresses) == 0: # 빈 리스트 되면 break
+                break
+    return answer
