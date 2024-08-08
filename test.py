@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('240807_Stack_1_2/4869.Pasting_paper/input.txt')
 
 def count_ways(N):
     dp = [0] * (N + 1)
