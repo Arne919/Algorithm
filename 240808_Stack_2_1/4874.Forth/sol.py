@@ -18,7 +18,7 @@ for tc in range(1, T+1):
                 result = 'error'
                 break
         else:
-            if len(stack) < 2:          # 연산자가 2개 미만일때 오류처리
+            if len(stack) < 2:          # 숫자가 2개 미만일때 오류처리
                 result = 'error'
                 break
             else:
