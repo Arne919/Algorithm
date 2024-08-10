@@ -11,6 +11,5 @@ for tc in range(1, T + 1):
         if sellprice <= i:
             sellprice = i
         else:
-            money += (sellprice - j)
-
+            money += (sellprice - i)
     print(f'#{tc} {money}')
