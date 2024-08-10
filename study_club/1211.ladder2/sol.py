@@ -16,7 +16,6 @@ for _ in range(10):
             cnt = 0
 
             while row > 0:
-                # moved = False
                 for k in range(3):
                     nr = row + dr[k]
                     nc = col + dc[k]
@@ -24,10 +23,7 @@ for _ in range(10):
                         arr[row][col] = '0'
                         row, col = nr, nc
                         cnt += 1
-                        # moved = True
                         break
-                # if not moved:
-                #     break
             if min_cnt > cnt:
                 min_cnt = cnt
                 result_col = start_col
