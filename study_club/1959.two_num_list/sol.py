@@ -15,7 +15,7 @@ for tc in range(1, T + 1):
                 num += N_arr[i] * M_arr[i+j]
             if total < num:
                 total = num
-    elif N > M:
+    elif N > M:                 # else도 가능
         for i in range(N-M+1):
             num=0
             for j in range(M):
