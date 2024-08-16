@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/16_백준데이">
-      <change beforePath="$PROJECT_DIR$/baekjoon/2309.일곱난쟁이/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/2309.일곱난쟁이/sol.py" afterDir="false" />
-    </list>
+    <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/16_백준데이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723795585485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="8/16_백준데이">
+      <created>1723795825208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723795825208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8/16_백준데이">
+      <created>1723795835815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723795835815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
