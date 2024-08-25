@@ -1,10 +1,10 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('maze_input.txt')
 
 def DFS(row, col):
     global result
 
-    if arr[row][col] == 2:      # 목표지점 도달시 종료
+    if arr[row][col] == 3:      # 목표지점 도달시 종료
         result = 1
         return
 
@@ -23,13 +23,13 @@ def DFS(row, col):
 
 T = int(input())
 for tc in range(1, T+1):
-    N = int(input())
+    N = 16
     arr = [list(map(int, input())) for _ in range(N)]
     visited = [[0] * N for _ in range(N)]
     result = 0
     for r in range(N):          # 시작지점 찾기
         for c in range(N):
-            if arr[r][c] == 3:
+            if arr[r][c] == 2:
                 row = r
                 col = c
     DFS(row, col)               # DFS함수 호출
