@@ -21,8 +21,9 @@ def DFS(row, col):
             # DFS 호출 후 현재 방향에서 모든 가능한 경로를 탐색했으므로,
             # 다음 방향으로 진행하거나 현재 함수에서 돌아감
 
-T = int(input())
-for tc in range(1, T+1):
+
+for tc in range(1, 11):
+    T = int(input())
     N = 16
     arr = [list(map(int, input())) for _ in range(N)]
     visited = [[0] * N for _ in range(N)]
