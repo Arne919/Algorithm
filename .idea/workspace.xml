@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대/sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/1220.magnetic/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/1220.magnetic/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/1220.magnetic/sol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/Magnetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/1220.magnetic/Magnetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/전봇대.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대/전봇대.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +43,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5w_(240826~240830)/240826_sol" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\10580.전봇대" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\1220.magnetic" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\3w_(240813~240816)\240814_Queue_2\in_class" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\3w_(240813~240816)\240814_Queue_2\in_class\도로 이동시간_skeleton" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\4w_(240820~240823)" />
-      <recent name="C:\Users\SSAFY\Desktop\Ssafy_algorithm\baekjoon" />
-      <recent name="C:\Users\SSAFY\Desktop\Ssafy_algorithm\study_club\6485.SS_bus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol (5)">
+  <component name="RunManager" selected="Python.sol (2)">
     <configuration name="sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/2669.sumset_rectangle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2669.sumset_rectangle/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sol (2)" />
         <item itemvalue="Python.sol (5)" />
         <item itemvalue="Python.sol (1)" />
         <item itemvalue="Python.sol (4)" />
         <item itemvalue="Python.sol" />
-        <item itemvalue="Python.sol (3)" />
       </list>
     </recent_temporary>
   </component>
