@@ -3,55 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/1225.hw_make_password/Tsol_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/1225.hw_make_password/Tsol_deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/1225.hw_make_password/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/1225.hw_make_password/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/1225.hw_make_password/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/1225.hw_make_password/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/1225.hw_make_password/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/1225.hw_make_password/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/1225.hw_make_password/sol_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/1225.hw_make_password/sol_deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/4866.test_stack(4day)/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/4866.test_stack(4day)/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/4866.test_stack(4day)/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/4866.test_stack(4day)/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/4866.test_stack(4day)/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/4866.test_stack(4day)/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/5097.rotation(6day)/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/5097.rotation(6day)/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/5097.rotation(6day)/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/5097.rotation(6day)/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/5097.rotation(6day)/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/5097.rotation(6day)/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/5099.pizza/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/5099.pizza/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/5099.pizza/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/5099.pizza/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/5099.pizza/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/5099.pizza/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/in_class/circular_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/in_class/circular_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/in_class/my_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/in_class/my_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240813_Queue_1/in_class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240813_Queue_1/in_class/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/5097.rotation(6day)/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/5097.rotation(6day)/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/5097.rotation(6day)/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/5097.rotation(6day)/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/5097.rotation(6day)/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/5097.rotation(6day)/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/0814_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/0814_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/0814_test_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/0814_test_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/road_bfs_1_skeleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/road_bfs_1_skeleton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/road_bfs_2_skeleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/road_bfs_2_skeleton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/road_dfs_3_skeleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/도로 이동시간_skeleton/road_dfs_3_skeleton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/암호생성기_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/암호생성기_deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/240814_Queue_2/in_class/암호생성기_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/240814_Queue_2/in_class/암호생성기_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3w_(240813~240816)/3w_study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3w_(240812~240816)/3w_study.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/4408.자기방으로돌아가기.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/4408.자기방으로돌아가기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/4408_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/4408_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/4881_배열최소합_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/4881_배열최소합_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/dfs_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/dfs_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/fibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/fibo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/maze.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/maze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/maze2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/maze2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/maze2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/maze2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/maze2_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/maze2_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/maze_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/maze_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/memoization.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/memoization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/miro_way.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/miro_way.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/미로의거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/미로의거리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/배열최소합.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/배열최소합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4w_(240820~240823)/재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/4w_(240819~240823)/재귀.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ssafy_test/월말평가/월말_2회차" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -255,7 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724643632399</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="8/26 test">
+      <created>1724653104841</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724653104841</updated>
+    </task>
+    <task id="LOCAL-00007" summary="8/26 test">
+      <created>1724653112961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724653112961</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
