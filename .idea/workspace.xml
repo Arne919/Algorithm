@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/20739.고대유적2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/20739.고대유적2/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/3499.퍼펙트셔플/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/3499.퍼펙트셔플/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/3499.퍼펙트셔플/sol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/고대 유적 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/20739.고대유적2/고대 유적 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/퍼펙트 셔플.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/3499.퍼펙트셔플/퍼펙트 셔플.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
