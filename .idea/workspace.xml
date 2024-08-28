@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240827_Tree_1/1231_중위순회/Tsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240827_Tree_1/5174_서브트리/Tsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240827_Tree_1/5176_이진탐색/Tsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240827_Tree_1/inclass/연결리스트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240827_Tree_1/inclass/인접리스트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/5177_이진_힙/sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/5177_이진_힙/sol2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240827_Tree_1/01_Tree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/Algo1_부울경_1반_강혜경.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/Algo1_부울경_1반_강혜경.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/Algo2_부울경_1반_강혜경.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/Algo2_부울경_1반_강혜경.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/Algo2_부울경_1반_김구현.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/Algo2_부울경_1반_김구현.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/algo1_sample_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/algo1_sample_in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/algo1_sample_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/algo1_sample_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/algo2_sample_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/algo2_sample_in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/test/algo2_sample_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/test/algo2_sample_out.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,24 +48,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/5w_(240826~240830)/240826_sol" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lectures" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240828_Tree_2\5177_이진_힙" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\5176_이진탐색" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\5174_서브트리" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\1231_중위순회" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\inclass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240828_Tree_2\5177_이진_힙" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\3499.퍼펙트셔플" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\20739.고대유적2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\10580.전봇대" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\1220.magnetic" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\3w_(240813~240816)\240814_Queue_2\in_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol (3)">
+  <component name="RunManager" selected="Python.sol (4)">
     <configuration name="sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,32 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/2116.주사위쌓기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/5177_이진_힙" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2116.주사위쌓기/sol.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ssafy_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240826_sol/10580.전봇대/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/5177_이진_힙/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sol (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/2309.일곱난쟁이" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/1232_사칙연산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/2309.일곱난쟁이/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/1232_사칙연산/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,13 +155,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sol2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ssafy_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/5177_이진_힙" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/5177_이진_힙/sol2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sol (4)" />
+        <item itemvalue="Python.sol (1)" />
+        <item itemvalue="Python.sol2" />
         <item itemvalue="Python.sol (3)" />
         <item itemvalue="Python.sol" />
-        <item itemvalue="Python.sol (2)" />
-        <item itemvalue="Python.sol (5)" />
-        <item itemvalue="Python.sol (1)" />
       </list>
     </recent_temporary>
   </component>
