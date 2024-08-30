@@ -1,23 +1,21 @@
 import sys
 sys.stdin = open('input.txt')
 
-
 T = int(input())
-
 for tc in range(1, T+1):
     N, M = map(int, input().split())
-    data = [list(map(int, input().split())) for _ in range(N)]
-    # print(N, M)
-    # for d in data:
-    #     print(d)
+    arr = [list(map(int, input().split())) for _ in range(N)]
     result = 0
-    for x in range(N-M+1):
-        for y in range(N-M+1):
-            tmp = 0
-            for i in range(x, x+M):
-                for j in range(y, y+M):
-                    if x+1 <= i <= x+M-2 and y+1 <= j <= y+M-2: continue
-                    tmp += data[i][j]
-            if result < tmp:
-                result = tmp
+    for i in range(N-M+1):
+        for j in range(N-M+1):
+            fly = 0
+            live_fly = 0
+            for k in range(i, i+M):
+                for l in range(j, j+M):
+                    fly += arr[k][l]
+                    if i+1 <= k <= i+M-2 and j+1 <= l <= j+M-2:
+                        live_fly += arr[k][l]
+
+            if result < (fly-live_fly):
+                result = (fly-live_fly)
     print(f'#{tc} {result}')
