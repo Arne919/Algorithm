@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4012.요리사/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4012.요리사/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4012.요리사/sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4014.활주로/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4014.활주로/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4014.활주로/sol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/5186_이진수2/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/5186_이진수2/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +51,11 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\inclass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\study_club\A_대비\4014.활주로" />
       <recent name="C:\Users\강혜경\Desktop\Algorithm\study_club\A_대비\요리사" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240828_Tree_2\5177_이진_힙" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\3499.퍼펙트셔플" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\20739.고대유적2" />
     </key>
   </component>
   <component name="RunManager" selected="Python.sol">
