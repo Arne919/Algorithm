@@ -1,5 +1,5 @@
 # import sys
-# sys.stdin = open('input.txt')
+# sys.stdin = open('5176.input.txt')
 #
 # for tc in range(1, 11):
 #

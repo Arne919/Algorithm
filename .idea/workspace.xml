@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4014.활주로/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4014.활주로/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_club/A_대비/4014.활주로/sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.구간합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.반복문자지우기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.이진탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1w_(240729~240802)/240729_List_1_1/in_class/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/1w_(240729~240802)/240729_List_1_1/in_class/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2w_(240805~240809)/240805_String_2/1213.string/Tsol.py" beforeDir="false" afterPath="$PROJECT_DIR$/2w_(240805~240809)/240805_String_2/1213.string/Tsol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/inclass/입출력참고용.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/inclass/입출력참고용.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_2/02_Start.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_2/1242_암호코드_스캔/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_2/1242_암호코드_스캔/sol.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +51,27 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240830_extra" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240828_Tree_2\5177_이진_힙" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\5176_이진탐색" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\5174_서브트리" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\1231_중위순회" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\inclass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240830_extra" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\study_club\A_대비\4014.활주로" />
       <recent name="C:\Users\강혜경\Desktop\Algorithm\study_club\A_대비\요리사" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240828_Tree_2\5177_이진_힙" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol\3499.퍼펙트셔플" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol">
-    <configuration name="진수변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5176.이진탐색">
+    <configuration name="4835.구간합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/inclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/inclass/진수변환.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.구간합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4873.반복문자지우기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/inclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/inclass/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.반복문자지우기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5176.이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/5185_이진수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240829_Start_1/5185_이진수/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.이진탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5176.이진탐색" />
+        <item itemvalue="Python.4873.반복문자지우기" />
+        <item itemvalue="Python.4835.구간합" />
         <item itemvalue="Python.sol" />
         <item itemvalue="Python.sol (3)" />
-        <item itemvalue="Python.sol (2)" />
-        <item itemvalue="Python.sol (1)" />
-        <item itemvalue="Python.진수변환" />
       </list>
     </recent_temporary>
   </component>

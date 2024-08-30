@@ -1,7 +1,7 @@
 # N = 5
 # arr = [55, 7, 78, 12, 42]
 # import sys
-# sys.stdin = open('input.txt')
+# sys.stdin = open('5176.input.txt')
 #
 #
 #
