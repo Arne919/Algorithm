@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4835.구간합.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/4873.반복문자지우기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/5176.이진탐색.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/creator.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/creator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +56,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.creator (1)">
+  <component name="RunManager" selected="Python.sol">
     <configuration name="creator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.creator (1)" />
         <item itemvalue="Python.sol" />
+        <item itemvalue="Python.creator (1)" />
         <item itemvalue="Python.creator" />
         <item itemvalue="Python.sol (2)" />
         <item itemvalue="Python.sol (1)" />
