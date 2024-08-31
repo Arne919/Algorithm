@@ -1,6 +1,7 @@
 import sys
 sys.stdin = open('input.txt')
 
+# 구간합_리메이크
 T = int(input())
 for tc in range(1, T+1):
     N, M = map(int, input().split())    # N=행 수, 이웃한 M개의 합
@@ -11,7 +12,7 @@ for tc in range(1, T+1):
     # 행을 순회해서 열리스트로 채우기
     for row in arr: 
         for i in range(num_row_arr):    # 최대 열 갯수만큼 순회
-            if i < len(row):            # i 
+            if i < len(row):            # 현재 행의 길이가 i보다 길때, 열리스트에 추가
                 col_arr[i].append(row[i])
     # print(col_arr)
 

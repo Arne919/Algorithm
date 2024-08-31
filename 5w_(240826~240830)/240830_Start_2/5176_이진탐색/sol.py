@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('5176.input.txt')
+sys.stdin = open('input.txt')
 
 def making_tree(node):
     global cnt
