@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/22251.문자열정리/sol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/22251.문자열정리/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/22251.문자열정리/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/22251.문자열정리/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/22251.문자열정리/my_sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/22251.문자열정리/my_sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/5w_(240826~240830)/240830_extra" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
