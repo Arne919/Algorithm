@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/1.부분집합_재귀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/2.부분집합_바이너리카운팅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/3.친구와카페방문.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/4.조합_재귀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/10.부분집합의합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/5.주사위던지기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/6.그리디_동전교환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/7.그리디_화장실.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/8.fractional_knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/9.회의실배정.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/05_완전검색_그리디.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/4.조합_재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/4.조합_재귀.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +62,8 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3.친구와카페방문">
-    <configuration name="1.부분집합_재귀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10.부분집합의합">
+    <configuration name="10.부분집합의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/1.부분집합_재귀.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/10.부분집합의합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.부분집합_바이너리카운팅" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.주사위던지기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/2.부분집합_바이너리카운팅.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/5.주사위던지기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.친구와카페방문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7.그리디_화장실" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/3.친구와카페방문.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/7.그리디_화장실.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8.fractional_knapsack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5189_전자카트" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5189_전자카트/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/8.fractional_knapsack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.회의실배정" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/inclass/9.회의실배정.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.친구와카페방문" />
-        <item itemvalue="Python.2.부분집합_바이너리카운팅" />
-        <item itemvalue="Python.1.부분집합_재귀" />
-        <item itemvalue="Python.sol" />
-        <item itemvalue="Python.sol (2)" />
+        <item itemvalue="Python.10.부분집합의합" />
+        <item itemvalue="Python.9.회의실배정" />
+        <item itemvalue="Python.8.fractional_knapsack" />
+        <item itemvalue="Python.7.그리디_화장실" />
+        <item itemvalue="Python.5.주사위던지기" />
       </list>
     </recent_temporary>
   </component>
