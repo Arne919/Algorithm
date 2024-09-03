@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5201_컨테이너_운반/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5201_컨테이너_운반/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5202_화물도크/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5202_화물도크/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5202_화물도크/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5202_화물도크/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5203_베이비진_게임/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5203_베이비진_게임/sol.py" afterDir="false" />
-    </list>
+    <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +34,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Talgorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lectures" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
