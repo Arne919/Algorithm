@@ -4,26 +4,27 @@ sys.stdin = open('input.txt')
 def dfs(lev):
     global result
     if lev == cnt:
-        result = max(result, int(''.join(num)))
+        result = max(result, int(''.join(map(str, num))))
         return
-    for i in range(L-1):
-        for j in range(i+1, L):
-            lst[i], lst[j] = lst[j], lst[i]
-            chk = int(''.join(num))
-            if (lev, chk) not in visited:
-                dfs(lev+1)
-                visited.append((lev,chk))
-            lst[i], lst[j] = lst[j], lst[i] # 반드시 원상복구
+
+    for i in range(L - 1):
+        for j in range(i + 1, L):
+            num[i], num[j] = num[j], num[i]
+
+            change = int(''.join(map(str, num)))
+            if (lev, change) not in visited:
+                dfs(lev + 1)
+                visited.append((lev, change))
+            num[i], num[j] = num[j], num[i]
 
 
 T = int(input())
-for tc in range(1, T+1):
+for test_case in range(1, T + 1):
     N, cnt = map(int, input().split())
-    num = list(str(N))
+    num = list(map(int, str(N)))
+
     L = len(num)
-    lst, visited = [], []
     result = 0
-    for i in num:
-        lst.append(i)
+    visited = []
     dfs(0)
-    print(f'#{tc} {result}')
+    print(f'#{test_case} {result}')
