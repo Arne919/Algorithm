@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
+      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/1232_사칙연산/sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/Tsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/Tsol2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬/sol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬/Tsol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +46,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/quick_sort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\1865.동철이의일분배" />
       <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\quick_sort" />
       <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\5205_퀵정렬" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240830_extra" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240828_Tree_2\5177_이진_힙" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240827_Tree_1\5176_이진탐색" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240830_extra" />
@@ -57,7 +65,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol (2)">
+  <component name="RunManager" selected="Python.sol (3)">
     <configuration name="4.이진검색_반복문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,6 +87,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5.이진검색_재귀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ssafy_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/inclass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/inclass/5.이진검색_재귀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tsol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ssafy_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\5204_병합정렬\Tsol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5202_화물도크" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5202_화물도크/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1w_(240729~240802)/240801_List_2_2/4839.binary_search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1w_(240729~240802)/240801_List_2_2/4839.binary_search/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,32 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ssafy_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5201_컨테이너_운반" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/5201_컨테이너_운반/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sol (2)" />
         <item itemvalue="Python.sol (3)" />
-        <item itemvalue="Python.4.이진검색_반복문" />
         <item itemvalue="Python.sol (1)" />
-        <item itemvalue="Python.sol" />
+        <item itemvalue="Python.sol (2)" />
+        <item itemvalue="Python.5.이진검색_재귀" />
+        <item itemvalue="Python.4.이진검색_반복문" />
       </list>
     </recent_temporary>
   </component>
@@ -250,5 +279,16 @@
     <MESSAGE value="8/16_백준데이" />
     <MESSAGE value="8/26 test" />
     <option name="LAST_COMMIT_MESSAGE" value="8/26 test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

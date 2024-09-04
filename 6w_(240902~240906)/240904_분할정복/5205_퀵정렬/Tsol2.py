@@ -5,7 +5,7 @@ def quick_sort(div_arr):
     if len(div_arr) <= 1:
         return div_arr
     else:
-        pivot = div_arr[0]
+        pivot = div_arr[len(div_arr)//2]
         left, equal, right = [], [], []
         for i in range(len(div_arr)):
             if div_arr[i] < pivot:
@@ -23,3 +23,4 @@ for tc in range(1, T+1):
     data = list(map(int, input().split()))
     result = quick_sort(data)
     print(f'#{tc} {result[N//2]}')
+

@@ -1,24 +1,27 @@
 import sys
 sys.stdin = open('input.txt')
 
-def quick_sort(div_arr):
-    if len(div_arr) <= 1:
-        return div_arr
-    else:
-        pivot = div_arr[0]  # 왼쪽을 피봇으로 잡음.
-        left, right = [], []
-        for i in range(1, len(div_arr)):
-            if div_arr[i] < pivot:
-                left.append(div_arr[i])
-            else:
-                right.append(div_arr[i])
-        return [*quick_sort(left), pivot, *quick_sort(right)]
+def quick_sort(arr):
+    if len(arr) <= 1:
+        return arr
+
+    pivot = arr[len(arr) // 2]
+    left, equal, right = [], [], []
+
+    for i in arr:
+        if i < pivot:
+            left.append(i)
+        elif i > pivot:
+            right.append(i)
+        else:
+            equal.append(i)
+
+    return quick_sort(left) + equal + quick_sort(right)
 
 
 T = int(input())
 for tc in range(1, T+1):
     N = int(input())
     arr = list(map(int, input().split()))
-    result = quick_sort(arr)
-    print(result)
-    # print(f'#{tc} {sorted(arr)[N//2]}')
+    result = quick_sort(arr)[N // 2]
+    print(f"#{tc} {result}")
