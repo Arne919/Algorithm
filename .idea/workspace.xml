@@ -2,17 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/5w_(240826~240830)/240828_Tree_2/1232_사칙연산/sol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/Tsol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/Tsol2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬/Tsol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5205_퀵정렬/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색/sol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/creator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/배열최소합-특수한줄.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/creator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/remake.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/creator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/스위치 켜고 끄기 문제 리메이크.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/Tsol_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/Tsol_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/파리퇴치-방사능.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/creator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/image/image.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/image/image2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/파리퇴치diamond.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/Tsol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/파리퇴치remake.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/creator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/풍선팡.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/creator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/풍선팡.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +100,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.sol (3)">
-    <configuration name="4.이진검색_반복문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.백트래킹_기본구조" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/inclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/inclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/inclass/4.이진검색_반복문.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/inclass/1.백트래킹_기본구조.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.이진검색_재귀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.백트래킹_예제1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/inclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/inclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/inclass/5.이진검색_재귀.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/inclass/2.백트래킹_예제1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tsol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.백트래킹_예제2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5204_병합정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/inclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\5204_병합정렬\Tsol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/inclass/3.백트래킹_예제2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,27 +176,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/5207_이진탐색/sol.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ssafy_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1w_(240729~240802)/240801_List_2_2/4839.binary_search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1w_(240729~240802)/240801_List_2_2/4839.binary_search/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,10 +208,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.sol (3)" />
+        <item itemvalue="Python.3.백트래킹_예제2" />
+        <item itemvalue="Python.2.백트래킹_예제1" />
+        <item itemvalue="Python.1.백트래킹_기본구조" />
         <item itemvalue="Python.sol (1)" />
-        <item itemvalue="Python.sol (2)" />
-        <item itemvalue="Python.5.이진검색_재귀" />
-        <item itemvalue="Python.4.이진검색_반복문" />
       </list>
     </recent_temporary>
   </component>

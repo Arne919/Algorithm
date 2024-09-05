@@ -21,4 +21,4 @@ for tc in range(1, T + 1):
     result = 0
     dfs(0, [], 1)
     # result1 = round(result*100,6)
-    print(f'#{tc} {result*100:06f}')
+    print(f'#{tc} {result*100:6f}')
