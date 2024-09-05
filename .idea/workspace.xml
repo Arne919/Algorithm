@@ -3,50 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/creator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합-특수한줄/배열최소합-특수한줄.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/creator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/remake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/배열최소합_리메이크/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/creator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/스위치켜고끄기_remake/스위치 켜고 끄기 문제 리메이크.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/Tsol_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/Tsol_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치-방사능/파리퇴치-방사능.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/creator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/image/image.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/image/image2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_diamond/파리퇴치diamond.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/Tsol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/파리퇴치_리메이크/파리퇴치remake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/creator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/easy/풍선팡.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/creator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/sol.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5w_(240826~240830)/240830_extra/풍선팡_리메이크/hard/풍선팡.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240904_분할정복/1865.동철이의일분배/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
