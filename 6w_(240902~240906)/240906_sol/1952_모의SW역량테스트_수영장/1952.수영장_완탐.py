@@ -1,7 +1,7 @@
 import sys
 sys.stdin = open('input.txt', 'r')
 
-
+'''
 # 시작점: 1월 / 누적금액: 0원
 # 끝점: 12월
 def dfs(month, sum_cost):
@@ -36,7 +36,7 @@ for tc in range(1, T + 1):
     ans = 1e9
     dfs(1, 0)
     print(f'#{tc} {ans}')
-
+'''
 # ------------------------------------
 
 # 접근 방법2
