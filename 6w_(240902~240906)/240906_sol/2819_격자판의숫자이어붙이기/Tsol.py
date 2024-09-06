@@ -22,7 +22,7 @@ def search(x, y):
             if 0 <= nx < 4 and 0 <= ny < 4 and cnt <= 6:
                 q.append((nx, ny, cnt+1, word + data[nx][ny]))  # 문자열추가가
 
-T = int(iput())
+T = int(input())
 
 for tc in range(1, T+1):
     data = [list(input().split()) for _ in range(4)]
