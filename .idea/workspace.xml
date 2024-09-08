@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +56,8 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol (2)">
-    <configuration name="sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sol (3)">
+    <configuration name="Tsol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/1242_암호코드_스캔" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/1242_암호코드_스캔/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/Tsol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sol (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240903_부분집합_조합_그리디/1244_최대_상금/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sol (3)" />
+        <item itemvalue="Python.Tsol" />
         <item itemvalue="Python.sol (2)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.sol2" />
-        <item itemvalue="Python.sol (1)" />
-        <item itemvalue="Python.sol" />
       </list>
     </recent_temporary>
   </component>
