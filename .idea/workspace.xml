@@ -2,8 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
+      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/12741_두_전구/Tsol_live.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/20551_증가하는_사탕_수열/Tsol_live.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/4008_숫자_만들기/Tsol_live.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/5656_벽돌깨기/Tsol_live.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/.idea/1w_extra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1486_장훈이의높은선반/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1486_장훈이의높은선반/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1861_정사각형_방/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1861_정사각형_방/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1952_모의SW역량테스트_수영장/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1952_모의SW역량테스트_수영장/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/1952_모의SW역량테스트_수영장/sol_with_dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1952_모의SW역량테스트_수영장/sol_with_dp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/2819_격자판의숫자이어붙이기/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/1w_extra/2819_격자판의숫자이어붙이기/sol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/.idea/2w_extra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/12741_두_전구/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/12741_두_전구/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/12741_두_전구/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/12741_두_전구/Tsol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/20551_,증가하는_사탕_수열/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/20551_증가하는_사탕_수열/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/20551_,증가하는_사탕_수열/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/20551_증가하는_사탕_수열/Tsol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/4008_숫자_만들기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/4008_숫자_만들기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/4008_숫자_만들기/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/4008_숫자_만들기/Tsol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/5656_벽돌깨기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/5656_벽돌깨기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/99_extra/2w_extra/5656_벽돌깨기/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/5656_벽돌깨기/Tsol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +69,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/1242_암호코드_스캔" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/4008_숫자_만들기" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\5w_(240826~240830)\240830_Start_2\1242_암호코드_스캔" />
-      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\1865.동철이의일분배" />
-      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\quick_sort" />
-      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240904_분할정복\5205_퀵정렬" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240830_extra" />
+      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\7w_(240909~240913)\20240909_문제풀이4\4008_숫자_만들기" />
+      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\7w_(240909~240913)\20240909_문제풀이4\5656_벽돌깨기" />
+      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\7w_(240909~240913)\20240909_문제풀이4\12741_두_전구" />
+      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\7w_(240909~240913)\20240909_문제풀이4" />
+      <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\6w_(240902~240906)\240906_sol\1952_모의SW역량테스트_수영장" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240830_extra" />
@@ -56,8 +88,8 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\5w_(240826~240830)\240826_sol" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol (3)">
-    <configuration name="Tsol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Tsol_live (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/12741_두_전구" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/Tsol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/12741_두_전구/Tsol_live.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tsol_live (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/1865_동철이의일분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/5656_벽돌깨기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/1865_동철이의일분배/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/5656_벽돌깨기/Tsol_live.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tsol_live (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/4008_숫자_만들기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240902_완전탐색/5203_베이비진_게임/sol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/4008_숫자_만들기/Tsol_live.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="참고_시간비교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/1242_암호코드_스캔" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5w_(240826~240830)/240830_Start_2/1242_암호코드_스캔/sol2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/20240909_문제풀이4/참고_시간비교.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/1865_동철이의일분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study_club/im_대비/1220.magnetic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240905_백트래킹응용_트리/1865_동철이의일분배/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_club/im_대비/1220.magnetic/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sol (3)" />
-        <item itemvalue="Python.Tsol" />
-        <item itemvalue="Python.sol (2)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.sol2" />
+        <item itemvalue="Python.Tsol_live (3)" />
+        <item itemvalue="Python.Tsol_live (2)" />
+        <item itemvalue="Python.Tsol_live (1)" />
+        <item itemvalue="Python.참고_시간비교" />
       </list>
     </recent_temporary>
   </component>
