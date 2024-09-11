@@ -14,20 +14,21 @@
 '''
 
 from heapq import heappush, heappop
-
+# 정점 기준
 def prim(start):
     heap = list()
-    MST = [0] * (V)
+    MST = [0] * (V)     # visited 랑 똑같다!
 
     # 최소 비용 합계
     sum_weight = 0
 
     # 힙에서 관리해야 할 데이터
     # 가중치, 정점 정보
-    heappush(heap, (0, start))
+    # heappush(heap, (start, 0))  # 정점 번호를 기준으로 정렬이 되기 때문에 안됩니다.
+    heappush(heap, (0, start))  # 시작점은 가중치가 0이다.
 
     while heap:
-        weight, v = heappop(heap)
+        weight, v = heappop(heap)   # 현재 시점에서 가중치가 가장 작은 정점
         
         # 이미 방문한 지점이면 통과
         if MST[v]:
