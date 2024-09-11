@@ -9,7 +9,7 @@
 3 5 1
 4 5 5
 '''
-# 최단 경로
+
 import heapq
 
 INF = int(1e9)  # 무한을 의미하는 값으로 1억
@@ -26,29 +26,28 @@ distance = [INF] * n
 # 간선 정보를 입력
 for _ in range(m):
     a, b, w = map(int, input().split())
-    graph[a].append([b, w]) # 단방향 그래프이다!
+    graph[a].append([b, w])  # 단방향 그래프이다!
 
 
 def dijkstra(start):
     pq = []
-    # 시작 노드 최단 거리는 0
     # heapq 에 리스트로 저장할 때는 맨 앞의 데이터를 기준으로 정렬된다.
-    heapq.heappush(pq, (0, start))  # 누적값이 앞으로
-    distance[start] = 0             # 시작 노드 최단 거리는 0
+    heapq.heappush(pq, (0, start))
+    distance[start] = 0  # 시작 노드 최단 거리는 0
 
     # 우선순위 큐가 빌 때 까지 반복
     while pq:
         # 가장 최단 거리인 노드에 대한 정보 꺼내기
         dist, now = heapq.heappop(pq)
         # 현재 노드가 이미 처리됐다면 skip
-        # 예제 그림: c 위치 가중치 3, 4로 도착가능 [참고]
+        # 예제 그림: c 위치 가중치 3, 4 로 도착가능 [참고]
         if distance[now] < dist:
             continue
 
         # 현재 노드와 연결된 다른 인접한 노드 확인
         for next in graph[now]:
             next_node = next[0]
-            cost = next[1]      # 다음 노드의 가중치
+            cost = next[1]  # 다음 노드의 가중치
 
             new_cost = dist + cost  # 누적값(현재까지의 누적값 + 다음 노드 가중치)
 
@@ -73,4 +72,4 @@ for i in range(n):
 
 # 0 2 3 9 6 10 출력의 의미
 # -> 0번 노드에서 갈 수 있는 다른 노드들까지의 최단거리들을 모두 구할 수 있다.
-# -> 다익스트라 한 번이면, 하나의 정점 -> 다른 정점들까지의 최단거리를 모두 구한다.
+# - 다익스트라 한 번이면, 하나의 정점 -> 다른 정점들까지의 최단거리들을 모두 구한다.
