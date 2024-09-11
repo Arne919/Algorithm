@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
-      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5249_최소신장트리/Tsol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5249_최소신장트리/Tsol_with_prim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5250_최소비용/Tsol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5250_최소비용/Tsol_with_dijkstra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5251_최소이동거리/Tsol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
