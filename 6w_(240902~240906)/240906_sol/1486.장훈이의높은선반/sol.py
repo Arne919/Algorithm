@@ -6,13 +6,15 @@ T = int(input())
 for tc in range(1, T+1):
     N, B = map(int, input().split())
     data = list(map(int, input().split()))
-    result = B
 
-    for i in range(2**N):
-        top = 0
-        for j in range(N):
-            if i & (1<<j):
-                top += data[j]
-        if top >= B and result >= top - B:
-            result = top - B
-    print(f'#{tc} {result}')
+    sums_list = [0]
+    for i in range(N):
+        for j in range(len(sums_list)):
+            val = data[i] + sums_list[j]
+            sums_list.append(val)
+    result = []
+    for x in sums_list:
+        if x - B >= 0:
+            result.append(x-B)
+    min_result = min(result)
+    print(f'#{tc} {min_result}')

@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6338d81a-d066-49ff-8f9d-aec065b94924" name="Default Changelist" comment="8/26 test">
+      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240912_컴퓨팅사고력/참고.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7w_(240909~240913)/240912_컴퓨팅사고력/컴퓨팅 사고력.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/A_대비/2667.단지번호붙이기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/A_대비/2667.단지번호붙이기/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/A_대비/2667.단지번호붙이기/sol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1486.장훈이의높은선반/sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1486.장훈이의높은선반/sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +42,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5250_최소비용" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/7w_(240909~240913)/240912_컴퓨팅사고력" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\My_Algorithm\7w_(240909~240913)\240912_컴퓨팅사고력" />
       <recent name="C:\Users\SSAFY\Desktop\My_Algorithm\7w_(240909~240913)\240911_그래프최소비용\5250_최소비용" />
       <recent name="C:\Users\SSAFY\Desktop\My_Algorithm\7w_(240909~240913)\240911_그래프최소비용\5249_최소신장트리" />
       <recent name="C:\Users\SSAFY\Desktop\My_Algorithm\7w_(240909~240913)\240911_그래프최소비용\inclass" />
       <recent name="C:\Users\강혜경\Desktop\Algorithm\7w_(240909~240913)\240910_그래프기본\5247.연산" />
-      <recent name="C:\Users\SSAFY\Desktop\My_Algorithm\7w_(240909~240913)\240910_그래프기본\inclass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\SSAFY\Desktop\My_Algorithm\7w_(240909~240913)\240911_그래프최소비용\5250_최소비용" />
@@ -55,49 +61,7 @@
       <recent name="C:\Users\SSAFY\Desktop\my_Algorithm\study_club\A_대비\1494.사랑의카운슬러(백트래킹)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sol (1)">
-    <configuration name="2.kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ssafy_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/inclass" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/inclass/2.kruskal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.Dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ssafy_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/inclass" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/inclass/3.Dijkstra.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sol (2)">
     <configuration name="sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +83,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sol (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ssafy_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1486.장훈이의높은선반" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1486.장훈이의높은선반/sol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ssafy_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,6 +117,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7w_(240909~240913)/240911_그래프최소비용/5249_최소신장트리/sol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ssafy_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1486.장훈이의높은선반" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6w_(240902~240906)/240906_sol/1486.장훈이의높은선반/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sol (2)" />
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.sol (1)" />
         <item itemvalue="Python.sol" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.3.Dijkstra" />
-        <item itemvalue="Python.2.kruskal" />
       </list>
     </recent_temporary>
   </component>
