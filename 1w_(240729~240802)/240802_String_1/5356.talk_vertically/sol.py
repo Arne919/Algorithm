@@ -16,4 +16,4 @@ for tc in range(1, T + 1):
             # if c < len(arr[r]):
             #     new_arr += arr[r][c]
 
-    print(f'#{tc} {new_arr}')
+    print(f'#{tc} {new_arr}') 

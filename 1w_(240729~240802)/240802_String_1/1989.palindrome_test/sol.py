@@ -20,3 +20,4 @@ for tc in range(1, T + 1):
     if new_word == word:
         result = 1
     print(f'#{tc} {result}')
+     

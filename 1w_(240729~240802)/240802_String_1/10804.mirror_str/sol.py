@@ -15,4 +15,4 @@ for tc in range(1, T + 1):
         elif str_arr[i] == 'q':
             str_arr[i] = 'p'
     str_arr = str_arr[::-1]
-    print(f"#{tc} {''.join(str_arr)}")
+    print(f"#{tc} {''.join(str_arr)}") 
