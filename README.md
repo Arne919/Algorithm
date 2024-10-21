@@ -1,1 +1,1 @@
-# Ssafy_algorithm
+# Algorithm
